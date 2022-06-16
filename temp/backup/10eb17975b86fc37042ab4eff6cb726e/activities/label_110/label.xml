@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="31" moduleid="110" modulename="label" contextid="223">
+  <label id="31">
+    <name>Processor (CPU): Intel Core i5 (or equivalent) and...</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Processor (CPU): Intel Core i5 (or equivalent) and above.&lt;/li&gt;&lt;li&gt;Operating system: Microsoft Windows 10 (64-bit)&lt;/li&gt;&lt;li&gt;Memory: 8GB RAM or more.&lt;/li&gt;&lt;li&gt;Monitor/Display: 21.5″ wide screen or larger monitor / 15″ laptop screen.&lt;/li&gt;&lt;li&gt;Network Adapter: Wired network connection with Internet access.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1654854790</timemodified>
+  </label>
+</activity>

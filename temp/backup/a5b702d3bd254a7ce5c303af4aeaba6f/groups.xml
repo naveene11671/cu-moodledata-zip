@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group id="1">
+    <name>Competency Development</name>
+    <idnumber></idnumber>
+    <description>&lt;p dir="ltr" style="text-align: left;"&gt;Competency Development&lt;br&gt;&lt;/p&gt;</description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1654856026</timecreated>
+    <timemodified>1654856049</timemodified>
+    <group_members>
+      <group_member id="1">
+        <userid>3</userid>
+        <timeadded>1654856040</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="2">
+        <userid>5</userid>
+        <timeadded>1654856046</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="3">
+        <userid>4</userid>
+        <timeadded>1654856047</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+      <group_member id="4">
+        <userid>2</userid>
+        <timeadded>1654856049</timeadded>
+        <component></component>
+        <itemid>0</itemid>
+      </group_member>
+    </group_members>
+  </group>
+  <groupings>
+  </groupings>
+</groups>

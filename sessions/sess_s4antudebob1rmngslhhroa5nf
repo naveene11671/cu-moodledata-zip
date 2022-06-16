@@ -1,0 +1,1 @@
+USER|O:8:"stdClass":4:{s:2:"id";i:0;s:10:"mnethostid";s:1:"1";s:10:"preference";a:0:{}s:7:"sesskey";s:10:"I5RmEf7OIT";}SESSION|O:8:"stdClass":3:{s:4:"lang";s:2:"en";s:8:"wantsurl";s:56:"http://172.17.19.56/moodle3_mt/login/change_password.php";s:10:"logintoken";a:1:{s:15:"core_auth_login";a:2:{s:5:"token";s:32:"8EycCy3nQtIdyk1vZRIfnFF4dQuYLGrQ";s:7:"created";i:1655289717;}}}

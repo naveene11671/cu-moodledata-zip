@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="10" contextid="145">
+  <shortname>MCD</shortname>
+  <fullname>Managerial Competency Development</fullname>
+  <idnumber>MS10</idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;Management skills can be developed through&lt;strong&gt;&amp;nbsp;learning and practical experience as a manager&lt;/strong&gt;. The skills help the manager to relate with their fellow co-workers and know how to deal well with their subordinates, which allows for the easy flow of activities in the organization.&lt;br&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>multitopic</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1654799400</startdate>
+  <enddate>1686335400</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>en</lang>
+  <theme></theme>
+  <timecreated>1654764517</timecreated>
+  <timemodified>1654769493</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <periodduration>1 week</periodduration>
+  <collapsible>1</collapsible>
+  <hiddensections>1</hiddensections>
+  <bannerslice>25</bannerslice>
+  <category id="4">
+    <name>Management sem 1</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

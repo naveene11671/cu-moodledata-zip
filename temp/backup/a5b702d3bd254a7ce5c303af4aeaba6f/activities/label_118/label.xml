@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="34" moduleid="118" modulename="label" contextid="231">
+  <label id="34">
+    <name>Label</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/even.JPG" alt="" width="1237" height="661" role="presentation" class="img-fluid atto_image_button_middle"&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1654922859</timemodified>
+  </label>
+</activity>

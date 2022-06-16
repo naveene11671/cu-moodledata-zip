@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="17" moduleid="89" modulename="resource" contextid="183">
+  <resource id="17">
+    <name>Syllabus PDF</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Syllabus PDF&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>1</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1654851622</timemodified>
+  </resource>
+</activity>

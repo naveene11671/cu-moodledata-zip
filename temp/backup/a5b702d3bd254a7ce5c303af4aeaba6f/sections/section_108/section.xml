@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="108">
+  <number>12</number>
+  <name>Module 1</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>105,113,102,108,112,114</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <timemodified>1654922789</timemodified>
+  <course_format_options id="240">
+    <format>multitopic</format>
+    <name>periodduration</name>
+    <value>0 day</value>
+  </course_format_options>
+  <course_format_options id="239">
+    <format>multitopic</format>
+    <name>level</name>
+    <value>2</value>
+  </course_format_options>
+  <course_format_options id="241">
+    <format>multitopic</format>
+    <name>collapsible</name>
+    <value>0</value>
+  </course_format_options>
+</section>

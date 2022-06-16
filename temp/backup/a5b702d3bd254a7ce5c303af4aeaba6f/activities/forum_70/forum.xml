@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="70" modulename="forum" contextid="155">
+  <forum id="14">
+    <type>general</type>
+    <name>Managerial Competency Development</name>
+    <intro>&lt;h3 style="text-align: left;"&gt;Managerial Competency Development Discussion forum&lt;/h3&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>1654765680</duedate>
+    <cutoffdate>1686301680</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>1</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1654855452</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+      <discussion id="5">
+        <name>Any Query</name>
+        <firstpost>5</firstpost>
+        <userid>2</userid>
+        <groupid>-1</groupid>
+        <assessed>0</assessed>
+        <timemodified>1654944871</timemodified>
+        <usermodified>3</usermodified>
+        <timestart>0</timestart>
+        <timeend>0</timeend>
+        <pinned>0</pinned>
+        <timelocked>0</timelocked>
+        <posts>
+          <post id="5">
+            <parent>0</parent>
+            <userid>2</userid>
+            <created>1654765912</created>
+            <modified>1654765912</modified>
+            <mailed>0</mailed>
+            <subject>Any Query</subject>
+            <message>&lt;p dir="ltr" style="text-align:left;"&gt;If you have any type of query discuss over here.&lt;/p&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+          <post id="6">
+            <parent>5</parent>
+            <userid>3</userid>
+            <created>1654765947</created>
+            <modified>1654765947</modified>
+            <mailed>0</mailed>
+            <subject>Re: Any Query</subject>
+            <message>&lt;div class="text_to_html"&gt;Yes, Sir I do have some.&lt;/div&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+          <post id="10">
+            <parent>6</parent>
+            <userid>2</userid>
+            <created>1654846307</created>
+            <modified>1654846307</modified>
+            <mailed>0</mailed>
+            <subject>Re: Any Query</subject>
+            <message>&lt;div class="text_to_html"&gt;Can you summaries your query to me.&lt;/div&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+          <post id="12">
+            <parent>10</parent>
+            <userid>2</userid>
+            <created>1654861749</created>
+            <modified>1654861749</modified>
+            <mailed>0</mailed>
+            <subject>Re: Any Query</subject>
+            <message>&lt;div class="text_to_html"&gt;How are the things happening?&lt;/div&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+          <post id="13">
+            <parent>12</parent>
+            <userid>3</userid>
+            <created>1654944871</created>
+            <modified>1654944871</modified>
+            <mailed>0</mailed>
+            <subject>Re: Any Query</subject>
+            <message>&lt;div class="text_to_html"&gt;I am fine&lt;/div&gt;</message>
+            <messageformat>1</messageformat>
+            <messagetrust>0</messagetrust>
+            <attachment></attachment>
+            <totalscore>0</totalscore>
+            <mailnow>0</mailnow>
+            <privatereplyto>0</privatereplyto>
+            <ratings>
+            </ratings>
+          </post>
+        </posts>
+        <discussion_subs>
+          <discussion_sub id="3">
+            <userid>2</userid>
+            <preference>1654765912</preference>
+          </discussion_sub>
+        </discussion_subs>
+      </discussion>
+    </discussions>
+    <subscriptions>
+      <subscription id="1">
+        <userid>3</userid>
+      </subscription>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

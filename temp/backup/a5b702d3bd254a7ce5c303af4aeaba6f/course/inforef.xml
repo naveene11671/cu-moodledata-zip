@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <userref>
+    <user>
+      <id>2</id>
+    </user>
+    <user>
+      <id>3</id>
+    </user>
+    <user>
+      <id>4</id>
+    </user>
+    <user>
+      <id>5</id>
+    </user>
+  </userref>
+  <groupref>
+    <group>
+      <id>1</id>
+    </group>
+  </groupref>
+  <roleref>
+    <role>
+      <id>1</id>
+    </role>
+    <role>
+      <id>3</id>
+    </role>
+    <role>
+      <id>5</id>
+    </role>
+  </roleref>
+  <fileref>
+    <file>
+      <id>2266</id>
+    </file>
+    <file>
+      <id>2267</id>
+    </file>
+  </fileref>
+</inforef>
